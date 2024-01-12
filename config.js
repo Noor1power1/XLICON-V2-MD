@@ -8,8 +8,8 @@ import axios from 'axios'
 
 global.owner = [
   ['918360234087', 'WHITE', true], 
-  ['233533763772', 'Abraham Dwamena', true],
-  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
+  ['233533763772', 'Nabesof', true],
+  ['923184070915', 'Noor Rahman Nabesof  -(𝘼𝙝𝙢𝙢𝙞)', true], 
   ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true], 
   
 ] //Number of owners
